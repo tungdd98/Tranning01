@@ -205,7 +205,7 @@ ul {
   justify-content: center;
   align-items: center;
   z-index: 10;
-  background: url(/src/assets/newmark.png) no-repeat;
+  background: url(../assets/newmark.png) no-repeat;
 }
 
 .w-tour-item__newmark span {
